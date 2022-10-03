@@ -2,7 +2,7 @@
 
 Play the classic game of piano tiles in Arcade mode.
 
-🔗Live Link: [https://devnest-coders.github.io/piano-tiles-game/](hhttps://devnest-coders.github.io/piano-tiles-game/)
+🔗Live Link: [https://devnest-coders.github.io/var-piano-tiles/](https://devnest-coders.github.io/var-piano-tiles/)
 
 ## Features 💫
 
